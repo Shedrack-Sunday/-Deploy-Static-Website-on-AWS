@@ -1,5 +1,5 @@
 
-# -Deploy-Static-Website-on-AWS
+# Deploy-Static-Website-on-AWS
 
 The whole project has two major intentions to implement:
 
@@ -19,13 +19,13 @@ In this project, I deployed a static website to AWS by performing the following 
 ![My Image](Folders-in-Bucket.jpeg)
 
 3. Securing bucket via IAM
-![My Image](securing-bucket.jpeg)
+![My Image](securing_bucket.jpeg)
 
 4. Configuration of website hosting
-![My Image](Static-Web-hosting.jpeg)
+![My Image](Static_Web_hosting.jpeg)
 
 5. Static website hosting enabled
-![My Image](CloudFront-Configured.jpeg)
+![My Image](CloudFront_Configured.jpeg)
 
 
 
