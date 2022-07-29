@@ -16,16 +16,16 @@ In this project, I deployed a static website to AWS by performing the following 
 ![My Image](Created-Bucket.jpeg)
 
 2. Files uploaded
-![My Image](Folders in Bucket.jpeg)
+![My Image](Folders-in-Bucket.jpeg)
 
 3. Securing bucket via IAM
-![My Image](securing bucket via IAM.jpeg)
+![My Image](securing-bucket.jpeg)
 
 4. Configuration of website hosting
-![My Image](Static Web hosting enabled .jpeg)
+![My Image](Static-Web-hosting.jpeg)
 
 5. Static website hosting enabled
-![My Image](CloudFront Configured.jpeg)
+![My Image](CloudFront-Configured.jpeg)
 
 
 
