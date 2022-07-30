@@ -19,13 +19,13 @@ In this project, I deployed a static website to AWS by performing the following 
 ![My Image](Folders-in-Bucket.jpeg)
 
 3. Securing bucket via IAM
-![My Image](securing_bucket.jpeg)
+![My Image]( securing_bucket.jpeg )
 
 4. Configuration of website hosting
-![My Image](Static_Web_hosting.jpeg)
+![My Image]( Static_Web_hosting.jpeg )
 
 5. Static website hosting enabled
-![My Image](CloudFront_Configured.jpeg)
+![My Image]( CloudFront_Configured.jpeg )
 
 
 
@@ -39,4 +39,4 @@ https://d3km0trsd0k6qd.cloudfront.net
 
 http://my-1969629-bucket.s3-website-us-east-1.amazonaws.com
 
-N.B. This is one of the projects required for the completion of my udacity cloud devops nanodegree
+N.B. This is one of the projects required for the completion of my udacity cloud DevOps nanodegree
