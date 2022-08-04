@@ -32,7 +32,7 @@ In this project, I deployed a static website to AWS by performing the following 
 
 ## Access Points
 
-1. Cloudfront domain:
+1. Cloudfront domain site:
 https://d3km0trsd0k6qd.cloudfront.net
 
 2.  Bucket website endpoint:
